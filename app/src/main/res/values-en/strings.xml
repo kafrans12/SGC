@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SGC</string>
+    <string name="title_activity_facebook">FacebookActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--Etiquetas para Item Nosotros -->
+    <string name="nosotros">Us</string>
+    <string name="redes">Social networks</string>
+    <string name="somos">About us</string>
+    <string name="mision">Mission</string>
+    <string name="vision">View</string>
+    <string name="objetivos">Strategic objectives​​</string>
+    <string name="txtmision">Contribute to the economic and social development of the country, through research in basic and applied geosciences of the subsoil, the potential of its resources, the evaluation and monitoring of threats of geological origin, the integral management of geoscientific knowledge, research and control nuclear and radioactive, meeting the priorities of the National Government\'s policies.</string>
+    <string name="txtvision">The Colombian Geological Service, in 2023, will be recognized nationally and internationally as a leading entity in research and generation of geoscientific knowledge and nuclear applications, delivering products and services of impact for the development of the country.</string>
+    <string name="txtobjetivos"><![CDATA[
+            <html><body>
+            <ol style=\"font-size:14px; padding=15px\" align=\"left\">
+                <li>Realizar investigaci&oacute;n cient&iacute;fica b&aacute;sica para generar conocimiento geocient&iacute;fico integral del territorio nacional.</li>
+                <li>Realizar investigaci&oacute;n de recursos del subsuelo para evaluar su potencial.</li>
+                <li>Realizar investigaci&oacute;n, seguimiento y monitoreo de las amenazas geol&oacute;gicas que sirva de base para la gesti&oacute;n integral del riesgo, ordenamiento territorial y ambiental y la planificaci&oacute;n de desarrollo.</li>
+                <li>Realizar investigaci&oacute;n y caracterizaci&oacute;n de materiales geol&oacute;gicos en los componentes f&iacute;sico, qu&iacute;mico, mec&aacute;nico, petrogr&aacute;fico, mineral&oacute;gico y metal&uacute;rgico.</li>
+                <li>Gestionar integralmente el conocimiento geocient&iacute;fico del territorio nacional para garantizar su disponibilidad.</li>
+                <li>Fomentar la investigaci&oacute;n y aplicaci&oacute;n de tecnolog&iacute;as nucleares.</li>
+                <li>Garantizar el control en el uso y disposici&oacute;n segura de los materiales nucleares y radiactivos del pa&iacute;s.</li>
+                <li>Contar con el personal especializado, competente y comprometido para dar cumplimiento a la misi&oacute;n y pol&iacute;ticas institucionales en el marco del Sistema de Gesti&oacute;n Institucional.</li>
+                <li>Posicionar la entidad dentro del SNCTI por la excelencia cient&iacute;fica de sus proyectos de investigaci&oacute;n en ciencias de la tierra en respuesta a las necesidades del desarrollo del pa&iacute;s.​​​</li></ol></body></html>]]></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Etiquetas para Item Twitter -->
+
+    <!--Etiquetas para Menu de Inicio y Drawer -->
+    <string name="us">Us</string>
+    <string name="equipos">Equipment</string>
+    <string name="directorio">directory</string>
+    <string name="acerca">About</string>
+    <string name="salir">Get out</string>
+    <string name="regresar">Return</string>
+
+    <!--Etiquetas para Fragment Equipos-->
+    <string name="acelerografo">accelerograph</string>
+    <string name="gps">GPS</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_gps">Map GPS</string>
+    <string name="filtro">filter</string>
+    <string name="facebook">Facebook</string>
+    <string name="youtube">Youtube</string>
+    <string name="instagram">Instagram</string>
+    <string name="twitter">Twitter</string>
+    <string name="by">Made by</string>
+    <string name="trabajo">Assistant SGC-OVSP</string>
+</resources>

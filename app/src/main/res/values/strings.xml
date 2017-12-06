@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">SGC</string>
+    <string name="title_activity_facebook">FacebookActivity</string>
+
+    <!--Etiquetas para Item Nosotros -->
+    <string name="nosotros">Nosotros</string>
+    <string name="redes">Redes Sociales</string>
+    <string name="somos">Acerca de</string>
+    <string name="mision">Mision</string>
+    <string name="vision">Vision</string>
+    <string name="objetivos">Objetivos Estrategicos</string>
+    <string name="txtmision">Contribuir al desarrollo económico y social del país, a través de la investigación en geociencias básicas y aplicadas del subsuelo, el potencial de sus recursos, la evaluación y monitoreo de amenazas de origen geológico, la gestión integral del conocimiento geocientífico, la investigación y el control nuclear y radiactivo, atendiendo las prioridades de las políticas del Gobierno Nacional.​</string>
+    <string name="txtvision">El Servicio Geológico Colombiano, en el año 2023, será reconocido nacional e internacionalmente como entidad líder en investigación y generación de conocimiento geocientífico y aplicaciones nucleares, entregando productos y servicios de impacto para el desarrollo del país.</string>
+    <string name="txtobjetivos"><![CDATA[
+            <html><body>
+            <ol style=\"font-size:14px; padding=15px\" align=\"left\">
+                <li>Realizar investigaci&oacute;n cient&iacute;fica b&aacute;sica para generar conocimiento geocient&iacute;fico integral del territorio nacional.</li>
+                <li>Realizar investigaci&oacute;n de recursos del subsuelo para evaluar su potencial.</li>
+                <li>Realizar investigaci&oacute;n, seguimiento y monitoreo de las amenazas geol&oacute;gicas que sirva de base para la gesti&oacute;n integral del riesgo, ordenamiento territorial y ambiental y la planificaci&oacute;n de desarrollo.</li>
+                <li>Realizar investigaci&oacute;n y caracterizaci&oacute;n de materiales geol&oacute;gicos en los componentes f&iacute;sico, qu&iacute;mico, mec&aacute;nico, petrogr&aacute;fico, mineral&oacute;gico y metal&uacute;rgico.</li>
+                <li>Gestionar integralmente el conocimiento geocient&iacute;fico del territorio nacional para garantizar su disponibilidad.</li>
+                <li>Fomentar la investigaci&oacute;n y aplicaci&oacute;n de tecnolog&iacute;as nucleares.</li>
+                <li>Garantizar el control en el uso y disposici&oacute;n segura de los materiales nucleares y radiactivos del pa&iacute;s.</li>
+                <li>Contar con el personal especializado, competente y comprometido para dar cumplimiento a la misi&oacute;n y pol&iacute;ticas institucionales en el marco del Sistema de Gesti&oacute;n Institucional.</li>
+                <li>Posicionar la entidad dentro del SNCTI por la excelencia cient&iacute;fica de sus proyectos de investigaci&oacute;n en ciencias de la tierra en respuesta a las necesidades del desarrollo del pa&iacute;s.​​​</li></ol></body></html>]]></string>
+
+
+    <!--Etiquetas para Item Twitter -->
+
+    <!--Etiquetas para Menu de Inicio y Drawer -->
+    <string name="us">Nosotros</string>
+    <string name="equipos">Equipos</string>
+    <string name="directorio">Directorio</string>
+    <string name="acerca">Acerca de</string>
+    <string name="salir">Salir</string>
+    <string name="regresar">Regresar</string>
+
+    <!--Etiquetas para Fragment Equipos-->
+    <string name="acelerografo">Acelerografo</string>
+    <string name="gps">GPS</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="title_activity_maps_gps">Mapa GPS</string>
+    <string name="filtro">Filtro</string>
+    <string name="facebook">Facebook</string>
+    <string name="youtube">Youtube</string>
+    <string name="instagram">Instagram</string>
+    <string name="twitter">Twitter</string>
+    <string name="by">Realizado por: </string>
+    <string name="trabajo">Asistente SGC-OVSP</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Opciones</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

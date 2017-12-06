@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/inicio"
+            android:checked="true"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Inicio" />
+
+        <item
+            android:id="@+id/nav_nosotros"
+            android:icon="@drawable/groupicon"
+            android:title="@string/nosotros" />
+        <item
+            android:id="@+id/nav_equipos"
+            android:icon="@drawable/maplocationicon"
+            android:title="@string/equipos" />
+        <item
+            android:id="@+id/nav_directorio"
+            android:icon="@drawable/phonebookicon"
+            android:title="@string/directorio" />
+        <item
+            android:id="@+id/nav_redes"
+            android:icon="@drawable/networkicon"
+            android:title="@string/redes" />
+        <item
+            android:id="@+id/nav_acerca"
+            android:icon="@drawable/peaksicon"
+            android:title="@string/nosotros" />
+        <item
+            android:id="@+id/nav_send"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="@string/salir" />
+
+    </group>
+
+
+
+</menu>
